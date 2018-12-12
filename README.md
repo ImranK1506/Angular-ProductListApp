@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Live preview
 
-[ProductList App](https://inventory-app-8p3s7gd6e.now.sh/)
+[ProductList App]( https://inventory-app-lt4sqvxx9.now.sh )
