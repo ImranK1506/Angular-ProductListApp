@@ -28,7 +28,7 @@ export class AppComponent {
         'NICEHAT',
         'Black Hat',
         '/assets/images/products/black-hat.jpg',
-        ['Men', 'Accesoires', 'Hats'],
+        ['Men', 'Accessoires', 'Hats'],
         29.99)
     ];
   }
