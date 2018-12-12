@@ -29,7 +29,13 @@ export class AppComponent {
         'Black Hat',
         '/assets/images/products/black-hat.jpg',
         ['Men', 'Accessoires', 'Hats'],
-        29.99)
+        29.99),
+      new Product(
+        'FANCYPANTS',
+        'Navy Pant',
+        '/assets/images/products/navy-pants.jpg',
+        ['Men', 'Apparel', 'Pants'],
+        49.99)
     ];
   }
 
